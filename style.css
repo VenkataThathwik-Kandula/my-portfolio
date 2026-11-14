@@ -27,13 +27,15 @@ p {
 /* Navigation bar */
 nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding: 20px 60px;
+    padding: 5px 20px;
+   
 }
 
 .logo {
     color: #a78bfa;
+    margin: 0;
 }
 
 nav ul {
